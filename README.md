@@ -1,3 +1,6 @@
+
+![weather.gif](https://github.com/parthrastogi15/react-weather-app/blob/main/weather.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
